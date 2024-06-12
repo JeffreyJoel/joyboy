@@ -13,7 +13,7 @@
 
 ## Overview
 
-Decentralized social built with Nostr and powered by Starknet account abstraction.
+Decentralized social built with Nostr and powered by Starknet account abstraction
 
 ## Origin story
 
